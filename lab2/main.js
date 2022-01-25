@@ -1,4 +1,4 @@
-
+// Author: Aleksandr Zheleznov
 var x = 10;
 let text;
 
